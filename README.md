@@ -1,7 +1,5 @@
-# Datos de la plantilla [![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/ojgarciab/plantilla-gitpod-apache2-php)
+# Ejemplos de inserción de SVG [![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/ojgarciab/299519-stackoverflow-es)
 
-En esta plantilla disponemos de:
+Pregunta original:
 
-* Documento de plantilla HTML 5 + Bootstrap 4.1.3 + jQuery 3.3.1.
-* Archivo `composer.json` vacío, listo para ser usado.
-* Servidor Apache2 con PHP activo.
+* [¿Cómo manipular un SVG externo con CSS?](https://es.stackoverflow.com/questions/299519/c%c3%b3mo-manipular-un-svg-externo-con-css).
